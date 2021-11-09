@@ -14,6 +14,7 @@ n = p*q
 z=(p-1)*(q-1)
 e= 7
 d =223
+
 phrase1 = "ENCRYPTION"
 dphrase1 = "lNYECaHS(N"
 
